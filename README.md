@@ -8,6 +8,3 @@ Progress is saved locally in a CSV file
 - Grammar tips
 - Quizzes with scoring
 - Progress tracking
-
-## Run the app
-```bash
